@@ -1,6 +1,6 @@
-![Alt Text](https://raw.githubusercontent.com/yat98/sia/master/assets/img/brand/blue.png)
+![Alt Text]
 <br><br><br>
-SIA atau Sistem Informasi Akuntansi yaitu aplikasi berbasis web yang mempunyai fitur jurnal umum, buku besar serta neraca saldo
+Aktiva atau Sistem Informasi Akuntansi yaitu aplikasi berbasis web yang mempunyai fitur jurnal umum, buku besar serta neraca saldo
 <hr>
 <h3>Cara Install</h3>
 <ul>
@@ -10,6 +10,6 @@ SIA atau Sistem Informasi Akuntansi yaitu aplikasi berbasis web yang mempunyai f
 <hr>
 <h3>Login</h3>
 <ul>
-<li>Username : hidayat</li>
+<li>Username : ifan</li>
 <li>password : 12345678</li>
 </u>
